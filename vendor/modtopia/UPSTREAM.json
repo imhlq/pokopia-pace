@@ -1,0 +1,30 @@
+{
+  "repository": "https://github.com/Dittobyte/Recompia",
+  "tag": "v0.13.9",
+  "commit": "8e79edb2f3649348ac095295ee2375000188d4e7",
+  "subtree": "runtime/third_party/modtopia",
+  "license": "MIT",
+  "source_page": "https://pokopia-native.vercel.app/mods/make",
+  "sha256": {
+    ".gitattributes": "09775cef997321b364ee1e105467852a90c5d4d3af32483c128e4436029a4ffd",
+    "CMakeLists.txt": "6625336920de1106e2cf28e07d14ff017a1790404b44217e25fb607eed9c4397",
+    "LICENSE": "25fb876888e90df6b947efbd6dea0de69e12c6e822bd7e2d95548e9aa9f83806",
+    "README.md": "0a804752b0831b5e18f16389625a9ee70f63cf8030b2c6f3280bdbff0b4712d9",
+    "core/src/mt_internal.h": "1e40ae4bcb1a4622a1015876b70109a654191c95c03334c1f765396d51272dbd",
+    "core/src/mt_loader.c": "676c705a2acfdac87c67255b4a3873ab54cde8fbe67523def3370a9fc5ac77b5",
+    "core/src/mt_loader.h": "63f52388acba6e5f71f81e214efe8ae1fdcbc30d4810b76d9fb6c40f0dc034ee",
+    "core/src/mt_manifest.c": "3c55e87f04945925f182c71aafbec096905398ca2a466915bf2336ea95b4828f",
+    "core/src/mt_manifest.h": "27dfe07c3fc3fdebffd6af2c01fd9da8fa8bbf0d045f4683ce22d84a6755d2a5",
+    "core/src/mt_net.c": "8b1ed0001b8b9c7e8c43f35b36a4c4b61a70d96263c5c6b108f795acc953ac61",
+    "core/src/mt_patch.c": "b339bcbeaf10e1f32f9c99b810d8a64c5f851b539aa4ead6513b303273e3ca2f",
+    "core/src/mt_patch.h": "d1f3d4a1b849a19effe02f4a2a306c8e8bafaa4106a86971a29a2a1b984a1a6c",
+    "core/src/mt_png.c": "e40cd2c3e080bbdd8da82d7689f4a41e09b496e1fdf23a9fa91511f90ac68d28",
+    "core/src/mt_runtime.c": "e1449119a4ffe107a4cf114bc663a85cd4db1ba143b5159f2877ff3338175503",
+    "core/src/mt_toml.c": "1fa0432fdfad9adf4545c04cdd1510c8b6af97dae56b0881958f3dfca507a05c",
+    "core/src/mt_util.c": "11c4b03e846cef1450e3faf9a5858530c655996d1a5998cd221c603c83ea8da8",
+    "core/src/mt_version.c": "edac6fe65d36cef2a07d93f6609ac3e95eaa233a6ff122dad1178b2dc8422fba",
+    "core/src/mt_zip.c": "77d50af7991631b2ff969da1caac08e31aa420e5dc6d3e6ed798e879b17e0654",
+    "sdk/include/modtopia/modtopia.h": "8415b25736878d916d3eb695b489607e0f6a4bf79ba2461b7e277f56d2b1ddaf",
+    "sdk/include/modtopia/modtopia_host.h": "5e5c044ffabc839736c294cb334d4641956babaef2e511fecbc364f6d7b0acdc"
+  }
+}
